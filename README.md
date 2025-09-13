@@ -40,6 +40,7 @@
 | **Member** | 이효정 |  | 
 | **Member** | 정우준 | 넉살(보드게임장) | 
 | **Member** | 조영준 | 깍두기(리액션담당) | 
+| **Member** | 좌민주 | 찍먹가(처음 해보는 것 찍먹하고 공유하기) | 
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
@@ -75,7 +76,7 @@ gantt
 | -------- | -------- | ---- | --- |
 | 2025/09/09 | OT       |      | --- |
 | 2025/09/16 | 블로그 번역 1 [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp) | 심소현 @sim-so |  |
-|  | 블로그 번역 2 | @Jaminju |  |
+|  | 블로그 번역 2 [Tiny Agents in Python: an MCP-powered agent in ~70 lines of code](https://huggingface.co/blog/python-tiny-agents) | 좌민주 @Jwaminju |  |
 | 2025/09/23 | _Magical Week_ |  |  |
 | 2025/09/30 |  블로그 번역 3 | 안정 | [smolagents](https://huggingface.co/blog/smolagents) |
 |  |  블로그 번역 4 [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | 윤현서 |  |
