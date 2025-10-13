@@ -81,7 +81,7 @@ gantt
 | 2025/09/30 |  번역: [Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents) | 안정 | [번역](https://hugging-face-krew.github.io/Introducing-smolagents/) |
 |  |  번역: [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | 윤현서 | [번역](https://hugging-face-krew.github.io/building-hf-mcp-ko/) / [발표자료](https://hugging-face-krew.github.io/building-hf-mcp-study/) |
 | 2025/10/06 |  번역: [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | 이효정 |  |
-|  |  MCP 서버 개발 프로젝트 소개 | 좌민주 | [발표자료](https://docs.google.com/presentation/d/1Y65fnT6JRd4DmA1qtBmo_gWq5beSG3WRz0OgZEtiMag/edit?usp=sharing) |
+|  |  MCP 서버 개발 프로젝트 소개 | 좌민주 | [발표자료](https://www.figma.com/design/zIZEBI6vdIdERZ6uRUNpe3/i18n-agent-MCP-project-overview?node-id=0-1&t=wRjdlsRjG6ohXoMX-1) |
 | 2025/10/13 |  번역: [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent) | 안지민 | 
 |  |  번역: [Vision Language Models Explained](https://huggingface.co/blog/vlms) | 정우준 |  |
 | 2025/10/20 | 번역: [Vision Language Models (Better, Faster, Stronger)](https://huggingface.co/blog/vlms-2025) | 조영준 |  |
