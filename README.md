@@ -94,7 +94,7 @@ gantt
 | 2025/11/17 | 발표 5 | 안지민  |  |
 |  | 발표 6 |  |  |
 | 2025/11/24 | 발표 7 |  |  |
-|  | 발표 8 | 정우준 |  |
+|  | 번역: [Vision Language Model Alignment in TRL ⚡️](https://huggingface.co/blog/trl-vlm-alignment) | 정우준 |  |
 | 2025/12/01 | 발표 1 |  |  |
 |  | 발표 2 |  |  |
 | 2025/12/08 | 발표 3 |  |  |
