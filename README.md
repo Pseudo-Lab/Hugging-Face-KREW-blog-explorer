@@ -80,7 +80,7 @@ gantt
 | 2025/09/23 | _Magical Week_ |  |  |
 | 2025/09/30 |  번역: [Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents) | 안정 | [번역](https://hugging-face-krew.github.io/Introducing-smolagents/) |
 |  |  번역: [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | 윤현서 | [번역](https://hugging-face-krew.github.io/building-hf-mcp-ko/) / [발표자료](https://hugging-face-krew.github.io/building-hf-mcp-study/) |
-| 2025/10/06 |  번역: [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | 이효정 |  |
+| 2025/10/06 |  번역: [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | 이효정 | [번역](https://hugging-face-krew.github.io/mcp-for-research/) |
 |  |  MCP 서버 개발 프로젝트 소개 | 좌민주 | [발표자료](https://www.figma.com/design/zIZEBI6vdIdERZ6uRUNpe3/i18n-agent-MCP-project-overview?node-id=0-1&t=wRjdlsRjG6ohXoMX-1) |
 | 2025/10/13 |  번역: [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent) | 안지민 | 
 |  |  번역: [Vision Language Models Explained](https://huggingface.co/blog/vlms) | 정우준 |  |
@@ -89,7 +89,7 @@ gantt
 | 2025/10/27 | _Magical Week_ |  |  |
 | 2025/11/03 | 발표 1 |  |  |
 |  | 발표 2 |  |  |
-| 2025/11/10 | 발표 3 |  |  |
+| 2025/11/10 | 번역: [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](https://huggingface.co/blog/pi0) | 이효정 |  |
 |  | 발표 4 |  |  |
 | 2025/11/17 | 발표 5 | 안지민  |  |
 |  | 발표 6 |  |  |
