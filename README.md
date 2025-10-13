@@ -34,7 +34,7 @@
 | 역할          | 이름 |  프로젝트 내 포지션                                                                | 
 |---------------|------|-----------------------------------------------------------------------|
 | **Project Manager** | 심소현 @sim-so | 탐험대장(오락부장) | 
-| **Member** | 안정 @ahnjj |  | 
+| **Member** | 안정 @ahnjj | 무플방지위원회원원 | 
 | **Member** | 윤현서 @hyeonseo2 |  | 
 | **Member** | 안지민 @jiminAn |  | 
 | **Member** | 이효정 @eehyo |  | 
@@ -90,7 +90,7 @@ gantt
 | 2025/11/03 | 발표 1 |  |  |
 |  | 발표 2 |  |  |
 | 2025/11/10 | 번역: [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](https://huggingface.co/blog/pi0) | 이효정 |  |
-|  | 발표 4 |  |  |
+|  | 번역: [mem-agent: Equipping LLM Agents with Memory Using RL](https://huggingface.co/blog/driaforall/mem-agent-blog) | 안정 |  |
 | 2025/11/17 | 발표 5 | 안지민  |  |
 |  | 발표 6 |  |  |
 | 2025/11/24 | 발표 7 |  |  |
