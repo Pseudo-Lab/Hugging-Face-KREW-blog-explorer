@@ -88,7 +88,7 @@ gantt
 |  | 블로그 번역 Wrap Up | 미정 |  |
 | 2025/10/27 | _Magical Week_ |  |  |
 | 2025/11/03 | 발표 1 | 심소현 |  |
-|  | 발표 2 |  |  |
+|  | 발표 2 | 조영준 |  |
 | 2025/11/10 | 번역: [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](https://huggingface.co/blog/pi0) | 이효정 |  |
 |  | 번역: [mem-agent: Equipping LLM Agents with Memory Using RL](https://huggingface.co/blog/driaforall/mem-agent-blog) | 안정 |  |
 | 2025/11/17 | 발표 5 | 안지민  |  |
