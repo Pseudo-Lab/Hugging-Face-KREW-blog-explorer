@@ -87,7 +87,7 @@ gantt
 | 2025/10/20 | 번역: [Vision Language Models (Better, Faster, Stronger)](https://huggingface.co/blog/vlms-2025) | 조영준 |  |
 |  | 블로그 번역 Wrap Up | 미정 |  |
 | 2025/10/27 | _Magical Week_ |  |  |
-| 2025/11/03 | 발표 1 | 심소현 |  |
+| 2025/11/03 | [DABStep: Data Agent Benchmark for Multi-step Reasoning](https://huggingface.co/blog/dabstep) | 심소현 |  |
 |  | 번역: [Welcome GPT OSS, the new open-source model family from OpenAI!](https://huggingface.co/blog/welcome-openai-gpt-oss) | 조영준 |  |
 | 2025/11/10 | 번역: [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](https://huggingface.co/blog/pi0) | 이효정 |  |
 |  | 번역: [mem-agent: Equipping LLM Agents with Memory Using RL](https://huggingface.co/blog/driaforall/mem-agent-blog) | 안정 |  |
