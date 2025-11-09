@@ -90,7 +90,7 @@ gantt
 | 2025/11/03 | [DABStep: Data Agent Benchmark for Multi-step Reasoning](https://huggingface.co/blog/dabstep) | 심소현 |  |
 |  | 번역: [Welcome GPT OSS, the new open-source model family from OpenAI!](https://huggingface.co/blog/welcome-openai-gpt-oss) | 조영준 |  |
 | 2025/11/10 | 번역: [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](https://huggingface.co/blog/pi0) | 이효정 |  |
-|  | 번역: [mem-agent: Equipping LLM Agents with Memory Using RL](https://huggingface.co/blog/driaforall/mem-agent-blog) | 안정 |  |
+|  | 번역: [Agent Leaderboard: Evaluating AI Agents in Multi-Domain Scenarios](https://huggingface.co/blog/pratikbhavsar/agent-leaderboard) | 안정 | [발표자료](https://drive.google.com/file/d/1GimcDqG0iNJRnlqLHQnPmgIzWwk1CEZ7/view?usp=sharing) |
 | 2025/11/17 | 번역 [Agent Leaderboard: Evaluating AI Agents in Multi-Domain Scenarios](https://huggingface.co/blog/pratikbhavsar/agent-leaderboard) | 안지민  |  |
 |  | 발표 6 | 윤현서 |  |
 | 2025/11/24 | 발표 7 |  |  |
