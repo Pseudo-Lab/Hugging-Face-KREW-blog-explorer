@@ -97,7 +97,7 @@ gantt
 |  | 번역: [Vision Language Model Alignment in TRL ⚡️](https://huggingface.co/blog/trl-vlm-alignment) | 정우준 |  |
 | 2025/12/01 | 발표 1 |  |  |
 |  | 발표 2 |  |  |
-| 2025/12/08 | 발표 3 |  |  |
+| 2025/12/08 | 이효정 |  |  |
 |  | 발표 4 |  |  |
 | 2025/12/15 | 발표 5 |  |  |
 |  | 발표 6 |  |  |
