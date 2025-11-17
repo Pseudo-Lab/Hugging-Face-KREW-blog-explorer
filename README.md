@@ -92,14 +92,14 @@ gantt
 | 2025/11/10 | 번역: [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](https://huggingface.co/blog/pi0) | 이효정 |  |
 |  | 번역: [Agent Leaderboard: Evaluating AI Agents in Multi-Domain Scenarios](https://huggingface.co/blog/pratikbhavsar/agent-leaderboard) | 안정 | [발표자료](https://drive.google.com/file/d/1GimcDqG0iNJRnlqLHQnPmgIzWwk1CEZ7/view?usp=sharing) |
 | 2025/11/17 | 번역 [Agent Leaderboard: Evaluating AI Agents in Multi-Domain Scenarios](https://huggingface.co/blog/pratikbhavsar/agent-leaderboard) | 안지민  |  |
-|  | [프로젝트] MCP 서버 설계 전략 및 번역 리뷰 에이전트 소개 | 윤현서 |  |
+|  | [프로젝트] MCP 서버 설계 전략 및 번역 리뷰 MCP 소개 | 윤현서 |  |
 | 2025/11/24 | 발표 7 |  |  |
 |  | 번역: [Vision Language Model Alignment in TRL ⚡️](https://huggingface.co/blog/trl-vlm-alignment) | 정우준 |  |
 | 2025/12/01 | 발표 1 |  |  |
 |  | 발표 2 |  |  |
 | 2025/12/08 | 번역: [Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2](https://huggingface.co/blog/packing-with-FA2) | 이효정 |  |
 |  | 발표 4 |  |  |
-| 2025/12/15 | 발표 5 |  |  |
+| 2025/12/15 | 발표 5 | 윤현서 |  |
 |  | 발표 6 |  |  |
 | 2025/12/22 | 발표 7 |  |  |
 |  | 발표 8 |  |  |
