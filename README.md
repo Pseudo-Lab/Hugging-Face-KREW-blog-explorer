@@ -102,7 +102,7 @@ gantt
 | 2025/12/15 | 발표 5 | 윤현서 |  |
 |  | 발표 6 |  |  |
 | 2025/12/22 | 번역: [Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2](https://huggingface.co/blog/packing-with-FA2) | 이효정 |  |
-|  | 발표 8 |  |  |
+|  | 발표 8 | 정우준 |  |
 
 
 ## 💡 학습 자원 (Learning Resources)
