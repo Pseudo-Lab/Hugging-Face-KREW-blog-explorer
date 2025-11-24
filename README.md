@@ -93,8 +93,7 @@ gantt
 |  | 번역: [Agent Leaderboard: Evaluating AI Agents in Multi-Domain Scenarios](https://huggingface.co/blog/pratikbhavsar/agent-leaderboard) | 안정 | [발표자료](https://drive.google.com/file/d/1GimcDqG0iNJRnlqLHQnPmgIzWwk1CEZ7/view?usp=sharing) |
 | 2025/11/17 | 번역 [Agent Leaderboard: Evaluating AI Agents in Multi-Domain Scenarios](https://huggingface.co/blog/pratikbhavsar/agent-leaderboard) | 안지민  |  |
 |  | [프로젝트] MCP 서버 설계 전략 및 번역 리뷰 MCP 소개 | 윤현서 |  |
-| 2025/11/24 | 발표 7 |  |  |
-|  | 번역: [Vision Language Model Alignment in TRL ⚡️](https://huggingface.co/blog/trl-vlm-alignment) | 정우준 |  |
+| 2025/11/24 | 번역: [Vision Language Model Alignment in TRL ⚡️](https://huggingface.co/blog/trl-vlm-alignment) | 정우준 |  |
 | 2025/12/01 | 발표 1 | 심소현 |  |
 |  | 발표 2 |  |  |
 | 2025/12/08 | 발표 3 |  |  |
