@@ -99,7 +99,7 @@ gantt
 | 2025/12/08 | 발표 3 |  |  |
 |  | 발표 4 Hugging Face translation hub 개발 | 좌민주 | |
 | 2025/12/15 | 발표 5 | 윤현서 |  |
-|  | 발표 6 |  |  |
+|  | 발표 6 | 안정 |  |
 | 2025/12/22 | 번역: [Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2](https://huggingface.co/blog/packing-with-FA2) | 이효정 |  |
 |  | 발표 8 | 정우준 |  |
 
