@@ -96,7 +96,7 @@ gantt
 | 2025/11/24 | 번역: [Vision Language Model Alignment in TRL ⚡️](https://huggingface.co/blog/trl-vlm-alignment) | 정우준 |  |
 | 2025/12/01 | 포스팅: Low-resorce Language Agent Benchmark | 심소현 |  |
 |  | 발표 2 |  |  |
-| 2025/12/08 | 발표 3 |  |  |
+| 2025/12/08 | 발표 3 | 조영준 |  |
 |  | 발표 4 Hugging Face translation hub 개발 | 좌민주 | |
 | 2025/12/15 | 발표 5 | 윤현서 |  |
 |  | 발표 6 | 안정 |  |
