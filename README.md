@@ -82,20 +82,20 @@ gantt
 |  |  번역: [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | 윤현서 | [번역](https://hugging-face-krew.github.io/building-hf-mcp-ko/) / [발표자료](https://hugging-face-krew.github.io/building-hf-mcp-study/) |
 | 2025/10/06 |  번역: [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | 이효정 | [번역](https://hugging-face-krew.github.io/mcp-for-research/) |
 |  |  MCP 서버 개발 프로젝트 소개 | 좌민주 | [발표자료](https://www.figma.com/design/zIZEBI6vdIdERZ6uRUNpe3/i18n-agent-MCP-project-overview?node-id=0-1&t=wRjdlsRjG6ohXoMX-1) |
-| 2025/10/13 |  번역: [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent) | 안지민 | 
-|  |  번역: [Vision Language Models Explained](https://huggingface.co/blog/vlms) | 정우준 |  |
-| 2025/10/20 | 번역: [Vision Language Models (Better, Faster, Stronger)](https://huggingface.co/blog/vlms-2025) | 조영준 |  |
+| 2025/10/13 |  번역: [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent) | 안지민 | [번역](https://hugging-face-krew.github.io/structured-codeagent-ko/) |
+|  |  번역: [Vision Language Models Explained](https://huggingface.co/blog/vlms) | 정우준 | [번역](https://hugging-face-krew.github.io/vlm-explained-ko/)  |
+| 2025/10/20 | 번역: [Vision Language Models (Better, Faster, Stronger)](https://huggingface.co/blog/vlms-2025) | 조영준 | [번역](https://hugging-face-krew.github.io/2025-VLM/) |
 |  | 블로그 번역 Wrap Up | 미정 |  |
 | 2025/10/27 | _Magical Week_ |  |  |
-| 2025/11/03 | [DABStep: Data Agent Benchmark for Multi-step Reasoning](https://huggingface.co/blog/dabstep) | 심소현 |  |
+| 2025/11/03 | [DABStep: Data Agent Benchmark for Multi-step Reasoning](https://huggingface.co/blog/dabstep) | 심소현 | [번역](https://hugging-face-krew.github.io/DABStep/) |
 |  | 번역: [Welcome GPT OSS, the new open-source model family from OpenAI!](https://huggingface.co/blog/welcome-openai-gpt-oss) | 조영준 |  |
-| 2025/11/10 | 번역: [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](https://huggingface.co/blog/pi0) | 이효정 |  |
+| 2025/11/10 | 번역: [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](https://huggingface.co/blog/pi0) | 이효정 | [번역](https://hugging-face-krew.github.io/pi0-fast/) |
 |  | 번역: [Agent Leaderboard: Evaluating AI Agents in Multi-Domain Scenarios](https://huggingface.co/blog/pratikbhavsar/agent-leaderboard) | 안정 | [발표자료](https://drive.google.com/file/d/1GimcDqG0iNJRnlqLHQnPmgIzWwk1CEZ7/view?usp=sharing) |
 | 2025/11/17 | 번역 [Agent Leaderboard: Evaluating AI Agents in Multi-Domain Scenarios](https://huggingface.co/blog/pratikbhavsar/agent-leaderboard) | 안지민  |  |
 |  | [프로젝트] MCP 서버 설계 전략 및 번역 리뷰 MCP 소개 | 윤현서 |  |
 | 2025/11/24 | 발표 7 |  |  |
 |  | 번역: [Vision Language Model Alignment in TRL ⚡️](https://huggingface.co/blog/trl-vlm-alignment) | 정우준 |  |
-| 2025/12/01 | 발표 1 |  |  |
+| 2025/12/01 | 발표 1 | 심소현 |  |
 |  | 발표 2 |  |  |
 | 2025/12/08 | 발표 3 |  |  |
 |  | 발표 4 Hugging Face translation hub 개발 | 좌민주 | |
