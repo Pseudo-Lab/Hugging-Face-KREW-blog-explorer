@@ -94,7 +94,7 @@ gantt
 | 2025/11/17 | 번역 [Agent Leaderboard: Evaluating AI Agents in Multi-Domain Scenarios](https://huggingface.co/blog/pratikbhavsar/agent-leaderboard) | 안지민  |  |
 |  | [프로젝트] MCP 서버 설계 전략 및 번역 리뷰 MCP 소개 | 윤현서 |  |
 | 2025/11/24 | 번역: [Vision Language Model Alignment in TRL ⚡️](https://huggingface.co/blog/trl-vlm-alignment) | 정우준 |  |
-| 2025/12/01 | 포스팅: Low-resorce Language Agent Benchmark | 심소현 |  |
+| 2025/12/01 | 번역: [Introducing RTEB: A New Standard for Retrieval Evaluation] | 심소현 |  |
 |  | 포스팅: [Fixing Open LLM Leaderboard with Math-Verify](https://huggingface.co/blog/math_verify_leaderboard) | 안지민 |  |
 | 2025/12/08 | 발표 3 | 조영준 |  |
 |  | 발표 4 Hugging Face translation hub 개발 | 좌민주 | |
