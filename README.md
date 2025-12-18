@@ -100,7 +100,7 @@ gantt
 |  | 발표 4 Hugging Face translation hub 개발 | 좌민주 | |
 | 2025/12/15 | 발표 5 | 윤현서 |  |
 |  | 번역 : [AI Agents Are Here. What Now?](https://huggingface.co/blog/ethics-soc-7)| 안정 |  |
-| 2025/12/22 | 번역: [Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2](https://huggingface.co/blog/packing-with-FA2) | 이효정 |  |
+| 2025/12/22 | 번역: [SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data](https://huggingface.co/blog/smolvla) | 이효정 |  |
 |  | 발표 8 | 정우준 |  |
 
 
