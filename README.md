@@ -101,7 +101,7 @@ gantt
 | 2025/12/15 | 발표 5 | 윤현서 |  |
 |  | 번역 : [AI Agents Are Here. What Now?](https://huggingface.co/blog/ethics-soc-7)| 안정 |  |
 | 2025/12/22 | 번역: [SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data](https://huggingface.co/blog/smolvla) | 이효정 |  |
-|  | 발표 8 | 정우준 |  |
+|  | [Economies of Open Intelligence](https://www.dataprovenance.org/economies-of-open-intelligence.pdf) | 정우준 |  |
 
 
 ## 💡 학습 자원 (Learning Resources)
