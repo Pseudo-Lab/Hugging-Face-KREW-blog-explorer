@@ -88,14 +88,14 @@ gantt
 |  | 블로그 번역 Wrap Up | 미정 |  |
 | 2025/10/27 | _Magical Week_ |  |  |
 | 2025/11/03 | [DABStep: Data Agent Benchmark for Multi-step Reasoning](https://huggingface.co/blog/dabstep) | 심소현 | [번역](https://hugging-face-krew.github.io/DABStep/) |
-|  | 번역: [Welcome GPT OSS, the new open-source model family from OpenAI!](https://huggingface.co/blog/welcome-openai-gpt-oss) | 조영준 |  |
+|  | 번역: [Welcome GPT OSS, the new open-source model family from OpenAI!](https://huggingface.co/blog/welcome-openai-gpt-oss) | 조영준 | [번역](https://hugging-face-krew.github.io/Welcome-GPT-OSS/) |
 | 2025/11/10 | 번역: [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](https://huggingface.co/blog/pi0) | 이효정 | [번역](https://hugging-face-krew.github.io/pi0-fast/) |
 |  | 번역: [Agent Leaderboard: Evaluating AI Agents in Multi-Domain Scenarios](https://huggingface.co/blog/pratikbhavsar/agent-leaderboard) | 안정 | [발표자료](https://drive.google.com/file/d/1GimcDqG0iNJRnlqLHQnPmgIzWwk1CEZ7/view?usp=sharing) |
-| 2025/11/17 | 번역 [Agent Leaderboard: Evaluating AI Agents in Multi-Domain Scenarios](https://huggingface.co/blog/pratikbhavsar/agent-leaderboard) | 안지민  |  |
-|  | [프로젝트] MCP 서버 설계 전략 및 번역 리뷰 MCP 소개 | 윤현서 |  |
+| 2025/11/17 | 번역 [Agent Leaderboard: Evaluating AI Agents in Multi-Domain Scenarios](https://huggingface.co/blog/pratikbhavsar/agent-leaderboard) | 안지민 | [번역](https://hugging-face-krew.github.io/agent-leaderboard/) |
+|  | [프로젝트] MCP 서버 설계 전략 및 번역 리뷰 MCP 소개 | 윤현서 | [포스팅](https://hugging-face-krew.github.io/hf_translation_hub_mcp_design_and_tooling/) |
 | 2025/11/24 | 번역: [Vision Language Model Alignment in TRL ⚡️](https://huggingface.co/blog/trl-vlm-alignment) | 정우준 |  |
-| 2025/12/01 | 번역: [Introducing RTEB: A New Standard for Retrieval Evaluation] | 심소현 |  |
-|  | 포스팅: [Fixing Open LLM Leaderboard with Math-Verify](https://huggingface.co/blog/math_verify_leaderboard) | 안지민 |  |
+| 2025/12/01 | 번역: [Introducing RTEB: A New Standard for Retrieval Evaluation] | 심소현 | [번역](https://hugging-face-krew.github.io/rteb/) |
+|  | 포스팅: [Fixing Open LLM Leaderboard with Math-Verify](https://huggingface.co/blog/math_verify_leaderboard) | 안지민 | [번역](https://hugging-face-krew.github.io/math-verify-leaderboard/) |
 | 2025/12/08 | n8n을 이용해 블로그 수동적으로 탐험하기 | 조영준 |  |
 |  | 발표 4 Hugging Face translation hub 개발 | 좌민주 | |
 | 2025/12/15 | 발표 5 | 윤현서 |  |
