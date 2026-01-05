@@ -97,7 +97,7 @@ gantt
 | 2025/12/01 | 번역: [Introducing RTEB: A New Standard for Retrieval Evaluation] | 심소현 | [번역](https://hugging-face-krew.github.io/rteb/) |
 |  | 포스팅: [Fixing Open LLM Leaderboard with Math-Verify](https://huggingface.co/blog/math_verify_leaderboard) | 안지민 | [번역](https://hugging-face-krew.github.io/math-verify-leaderboard/) |
 | 2025/12/08 | n8n을 이용해 블로그 수동적으로 탐험하기 | 조영준 |  |
-|  | 발표 4 Hugging Face translation hub 개발 | 좌민주 | [발표자료](https://hugging-face-krew.github.io/translation-mcp-project-overview/) |
+|  | 발표: Hugging Face translation hub 개발 | 좌민주 | [발표자료](https://hugging-face-krew.github.io/translation-mcp-project-overview/) |
 | 2025/12/15 | 발표 5 | 윤현서 |  |
 |  | 번역 : [AI Agents Are Here. What Now?](https://huggingface.co/blog/ethics-soc-7)| 안정 |  |
 | 2025/12/22 | 번역: [SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data](https://huggingface.co/blog/smolvla) | 이효정 |  |
